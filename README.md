@@ -1,4 +1,4 @@
-# Off-Grid Communication & IoT Device - Development Roadmap
+# Off-Grid Communication & IoT Device  - Research and Development Roadmap
 
 > **Project Goal**: Build a prototype device for off-grid communications and IoT applications using LoRa technology
 
